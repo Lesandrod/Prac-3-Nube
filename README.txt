@@ -7,8 +7,9 @@ Usa el servicio S3 para almacenar las imagenes.
 para instalar la Aplicación:
 - clonar el repositorio
 - ingresar a la carpeta del proyecto
-- en consola poner 'npm istall'
+- en consola poner 'npm install'
 - ejecutar con run dev
+
 
 Preciamente creamos un archivo .env donde pondremos el acceso a nuestro servicio de AWS, S3 y Planetscale:
 
